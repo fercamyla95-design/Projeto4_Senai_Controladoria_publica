@@ -299,7 +299,7 @@ As consultas produzem as respostas das seis perguntas de negócio da Controlador
 ## 14. Apresentação do projeto
 **Vídeo — Review das Sprints e defesa técnica:**
 
-> LINK DO VÍDEO NO GOOGLE DRIVE: 
+> LINK DO VÍDEO NO GOOGLE DRIVE:" https://drive.google.com/file/d/1-1WhxsCq5RnWkunTO4I_ayCx0p5WDeNS/view?usp=sharing "
 
 ## 15. Autoria
 **Camyla K. Fernandes**
